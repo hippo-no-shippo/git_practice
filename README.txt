@@ -4,4 +4,6 @@ Hello Git and GitHub
 3
 4
 5
-3\n2
+3
+2
+12
