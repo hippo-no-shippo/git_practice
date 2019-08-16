@@ -17,3 +17,8 @@ def str():
 for i in range(5):
 	print('hello git')
 
+def main():
+  str()
+ 
+
+main()
