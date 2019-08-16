@@ -2,7 +2,7 @@ Hello Git and GitHub
 
 local5ll
 
-from I
+from global
 
 local
 
